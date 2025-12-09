@@ -1,6 +1,6 @@
 Contributed a pull request to add a correlation matrix visualisation to Vizro's Visual Vocabulary project. 
 
-https://github.com/mckinsey/vizro/pull/1511
+https://github.com/mckinsey/vizro/pull/1521
 
 This repo is an upload of the code submitted. 
 
